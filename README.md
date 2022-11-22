@@ -1,5 +1,3 @@
-# FAD_pomdp_integration
-
 FILE              OUTPUT VARIABLES              OUTPUT FILE NAME            REMARK
 SIF_FAD           MCS crack samples, pF         Deterioration.mat, pf_FAD   Change FM model / failure criteria here 
 dbn_dr_trans      dr_env                        dr_ENV.mat                  Play with discretization here 
