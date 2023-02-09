@@ -14,7 +14,7 @@ If you use this DBN-POMDP implementation for complex deterioration models and fa
 ```
 @article{Hlaing2022,
 author = {Nandar Hlaing and Pablo G. Morato and Jannie S. Nielsen and Peyman Amirafshari and Athanasios Kolios and Philippe Rigo},
-title = {Inspection and maintenance planning for offshore wind structural components: integrating fatigue failure criteria with Bayesian networks and Markov decision processes},
+title = {{Inspection and maintenance planning for offshore wind structural components: integrating fatigue failure criteria with Bayesian networks and Markov decision processes}},
 journal = {Structure and Infrastructure Engineering},
 volume = {18},
 number = {7},
