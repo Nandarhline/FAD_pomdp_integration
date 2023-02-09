@@ -8,3 +8,20 @@ parsing_infinite  dr_env (with rewards)         IFH_input.mat               Chan
 parsing_finite    dr_env (FH models)            FN_input.mat                Transforming state, transition, observation, reward models  
 headingSarsop                                   Name.pomdp                  Writing the pomdp input file 
 
+## Citation
+If you use this DBN-POMDP implementation for complex deterioration models and failure criteira in your own work, please cite our paper:
+
+```
+@article{Hlaing2022,
+author = {Nandar Hlaing and Pablo G. Morato and Jannie S. Nielsen and Peyman Amirafshari and Athanasios Kolios and Philippe Rigo},
+title = {Inspection and maintenance planning for offshore wind structural components: integrating fatigue failure criteria with Bayesian networks and Markov decision processes},
+journal = {Structure and Infrastructure Engineering},
+volume = {18},
+number = {7},
+pages = {983-1001},
+year  = {2022},
+publisher = {Taylor & Francis},
+doi = {10.1080/15732479.2022.2037667},
+}
+
+```
