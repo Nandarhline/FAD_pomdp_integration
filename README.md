@@ -7,7 +7,7 @@ MCS_updat         pF_MCS, pf_MCS, beta_MCS      mcs_upd_out.mat             Chan
 dbn_dr_cond       dr_env (with POD model)       dr_ENV.mat                  Input the same POD model and inspection years, to compare updated pF between MCS and DBN 
 parsing_infinite  dr_env (with rewards)         IFH_input.mat               Change the cost model here 
 parsing_finite    dr_env (FH models)            FN_input.mat                Transforming state, transition, observation, reward models  
-headingSarsop                                   Name.pomdp                  Writing the pomdp input file 
+headingSarsop                                   FADfini.pomdp                  Writing the pomdp input file 
 
 ## Citation
 If you use this DBN-POMDP implementation for complex deterioration models and failure criteira in your own work, please cite our paper:
