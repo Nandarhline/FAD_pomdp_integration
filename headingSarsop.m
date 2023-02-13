@@ -1,7 +1,7 @@
 clear
 
 
-head01 = fopen('../05_Policies/FADfini.pomdp','w'); %opening the file
+head01 = fopen('FADfini.pomdp','w'); %opening the file
 
 % Run parsing01 or load the dr_ENV.mat file
 %parsing01;
